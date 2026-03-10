@@ -3,6 +3,7 @@
 
 /*
  Esto es un c{odigo de prueba para revisar conceptos de mem din
+y son puras mentiras
  */
 
 void redArr(int*& arr, int& capacidad){
