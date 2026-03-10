@@ -1,5 +1,10 @@
 #include <iostream>
 
+
+/*
+ Esto es un c{odigo de prueba para revisar conceptos de mem din
+ */
+
 void redArr(int*& arr, int& capacidad){
 
     int nuevaCap = capacidad * 2;
